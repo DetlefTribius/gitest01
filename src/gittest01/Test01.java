@@ -17,5 +17,11 @@ public class Test01
     {
         new Test01();
     }
+    
+    
+    public Test01()
+    {
+        System.out.println("Test01()...");
+    }
 
 }
